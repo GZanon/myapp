@@ -1,0 +1,19 @@
+	Roteiro de "Hello World"
+
+1. Primeiro crie um diretório chamado myapp, mude para ele e execute o npm init. Em seguida instale o express como uma dependência, de acordo com o guia de instalação
+
+2. No diretório myapp, crie um arquivo .js e inclua o código myapp.js
+
+3. Execute o aplicativo com o seguinte comando: $ node app.js
+
+4. Em seguida, carregue http://localhost:3000/ em um navegador para visualizar a saída
+
+*O exemplo acima é feito pelo método de roteamento que segue a estrutura de:
+
+	app.METHOD(PATH, HANDLER)
+
+	Onde:
+	app é uma instância do express.
+	METHOD é um método de solicitação HTTP.
+	PATH é um caminho no servidor.
+	HANDLER é a função executada quando a rota é correspondida.

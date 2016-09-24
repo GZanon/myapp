@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "hello world .js",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovane Zanon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
